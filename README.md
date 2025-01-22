@@ -29,7 +29,7 @@ My recent experiences include optimizing backend functionality and deploying sca
 
 ### Currently Working On...
 
-- [My resume](https://github.com/AdarshPettappa/resume.git) 
+- 📑 [To learn more about me, here's my resume!](https://github.com/AdarshPettappa/resume.git) 
 - 👯 I’m looking to for future internship opportunities as a Software Engineer
 - 🔭 I’m currently working on building personal projects with AI intergating 
 - 🌱 I’m currently learning more about operating systems 
