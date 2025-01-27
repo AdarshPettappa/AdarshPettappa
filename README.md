@@ -5,7 +5,7 @@ My recent experiences include optimizing backend functionality and deploying sca
 
 
 ### Experiences
-- Michigan Cantor (2024)
+- Michigan Cantor - Coding and Tradning Club (2024)
 - Software Engineer Intern at SocialTechLabs (2024)
 - Machine Learning Research Intern at Umich (2024)
 - Michigan Hackerks (2023)
