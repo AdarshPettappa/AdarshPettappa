@@ -5,7 +5,7 @@ My recent experiences include optimizing backend functionality and deploying sca
 
 
 ### Experiences
-- Tenneco - (2025): Cloud Architect Intern 
+- Tenneco - (2025): Data Engineer Intern
 - AAA - Auto Club Group - (2025): Software Engineer Intern
 - Michigan Student Artificial Intelligence Lab (MSAIL) - 2025: Techinical Developer
 - Michigan Cantor - Coding and Tradning Club (2024): Lead Developer
