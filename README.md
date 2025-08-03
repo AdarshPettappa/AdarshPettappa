@@ -5,11 +5,11 @@ My recent experiences include optimizing backend functionality and deploying sca
 
 
 ### Experiences
-- Tenneco - (2025): Data Engineer Intern
-- AAA - Auto Club Group - (2025): Software Engineer Intern
-- Michigan Student Artificial Intelligence Lab (MSAIL) - 2025: Techinical Developer
+- Tenneco (2025): Data Engineer Intern
+- AAA - Auto Club Group (2025): Software Engineer Intern
+- Michigan Student Artificial Intelligence Lab (MSAIL) (2025): Techinical Developer
 - Michigan Cantor - Coding and Tradning Club (2024): Lead Developer
-- Software Engineer Intern at SocialTechLabs (2024): Software Engineer Intern
+- ZinZee (2024): Software Engineer Intern
 - Machine Learning Research Assistant at Umich (2024)
 
 ### Technologies & Tools
